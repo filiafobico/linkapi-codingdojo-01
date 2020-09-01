@@ -1,0 +1,49 @@
+{
+    "customers": [
+        {
+            "firts_name": "joao",
+            "last_name": "silva",
+            "document_type": "cpf",
+            "document": "44808709812",
+            "email": "mano_joao@hotmail.com",
+            "phones": [
+                {
+                    "phone_type": "house",
+                    "phone_number": "1159220862"
+                },
+                {
+                    "phone_type": "work",
+                    "phone_number": "11983003848"
+                },
+                {
+                    "phone_type": "cell_phone",
+                    "phone_number": "11983003848"
+                }
+            ],
+            "addresses": [
+                {
+                    "address_type": "house",
+                    "postal_code": "04864090",
+                    "street": "Acesso Uirapuru do Sertão",
+                    "number": "356",
+                    "city": "São Paulo",
+                    "neighborhood": "Balneario São José",
+                    "state": "SP",
+                    "coutry": "Brazil",
+                    "complement": "Em frente a Mecanica do Simas!"
+                },
+                {
+                    "address_type": "work",
+                    "postal_code": "04575060",
+                    "street": " R. Geraldo Flausino Gomes",
+                    "number": "78",
+                    "city": "São Paulo",
+                    "neighborhood": "Berrini",
+                    "state": "SP",
+                    "coutry": "Brazil",
+                    "complement": "Sexto andar lado direito!"
+                }
+            ]
+        }
+    ]
+}
